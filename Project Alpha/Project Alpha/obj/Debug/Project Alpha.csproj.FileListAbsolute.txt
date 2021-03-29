@@ -1,0 +1,7 @@
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\bin\Debug\Project Alpha.exe.config
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\bin\Debug\Project Alpha.exe
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\bin\Debug\Project Alpha.pdb
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\obj\Debug\Project Alpha.csprojAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\obj\Debug\Project Alpha.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\obj\Debug\Project Alpha.exe
+C:\Users\Mohamed\Desktop\C# School Work\Project Alpha\Project Alpha\obj\Debug\Project Alpha.pdb
